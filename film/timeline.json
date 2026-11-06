@@ -1,0 +1,21 @@
+{
+ "duration": 15,
+ "beats": {
+  "under": 2.4,
+  "breach": 3.72,
+  "headland": 5.6,
+  "alert": 5.95,
+  "crouch": 6.2,
+  "leap": 6.65,
+  "air": 7.1,
+  "catch": 8.45,
+  "landShot": 9,
+  "land": 9.35,
+  "wcrash": 10.3,
+  "calm": 11.2,
+  "horn": 11.85,
+  "spout": 12.6,
+  "title": 13.3,
+  "end": 15
+ }
+}

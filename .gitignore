@@ -1,0 +1,5 @@
+teardown-out/
+node_modules/
+__pycache__/
+*.pyc
+out/*_sheets/
